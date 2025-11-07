@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://tinypng.com/images/social/website.jpg" alt="Amlan Mondal | MERN Stack Developer" width="100%" />
+</p>
+
 # 👋 Hi, I'm Amlan Mondal  
 
 ### 💻 MERN Stack Developer | Node.js | MongoDB | React.js | Express.js
