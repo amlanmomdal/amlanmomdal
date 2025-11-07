@@ -14,7 +14,7 @@ I specialize in **MERN Stack development**, API design, database modeling, and m
 - 🧩 Building projects that solve real-world problems  
 - 💬 Ask me about: `Node.js`, `React.js`, `MongoDB`, `Express`, `API Development`, `Authentication`  
 - 📫 Reach me at: **[amlanmondal98@gmail.com]**  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+<!-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) -->
 
 ---
 
