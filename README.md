@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tinypng.com/images/social/website.jpg" alt="Amlan Mondal | MERN Stack Developer" width="100%" />
+  <img src="https://fariznetworks.com/assets/img/services/banner-20.jpg" alt="Amlan Mondal | MERN Stack Developer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Amlan Mondal  
